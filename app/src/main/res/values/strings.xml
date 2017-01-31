@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">"                        Assisos"</string>
+
+
+    <string-array name="single_or_not">
+        <item>
+            Single
+        </item>
+        <item>
+            In a relationship
+        </item>
+        <item>
+            Married
+        </item>
+        <item>
+            Divorced
+        </item>
+    </string-array>
+
+    <string-array name="student_or_not">
+        <item>
+            pupil
+        </item>
+        <item>
+            Student
+        </item>
+        <item>
+            Not a pupil or a Student
+        </item>
+
+    </string-array>
+
+
+
+</resources>

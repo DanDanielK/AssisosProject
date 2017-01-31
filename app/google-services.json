@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881397777971",
+    "firebase_url": "https://assisosproject-65709.firebaseio.com",
+    "project_id": "assisosproject-65709",
+    "storage_bucket": "assisosproject-65709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881397777971:android:d380b98cb6d970df",
+        "android_client_info": {
+          "package_name": "project.assisos.assisosproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881397777971-qeeqgnf5mo0lhr7i10sc2vrcrgfg4gfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLwzeDX3ccNqsp1mXvOaEz61E_u8QG0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
